@@ -1,0 +1,19 @@
+# key
+.env
+
+# Sistema Mac
+.DS_Store
+.DS_Store?
+._*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+
+# Flask
+instance/
+.webassets-cache
+*.db
+

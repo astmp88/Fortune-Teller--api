@@ -1,0 +1,4 @@
+Flask==3.1.2
+groq==0.35.0
+python-dotenv==1.2.1 
+model API== llama-3.3-70b-versatile
